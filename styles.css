@@ -8,7 +8,7 @@
 
 	h2{
 		text-align: center;
-		background-color: black;
+		background-color: white;
 		width: 260px;
 		font-family: sans-serif;
 		font-style:	normal;
@@ -43,7 +43,7 @@
 		border-radius: 4px;
 		padding: 10px;
 		background-color: white;
-		margin-bottom: 20px;}
+		margin-bottom: 30px;}
 
 	p{
 		display: block;
@@ -61,7 +61,7 @@
 		width: 800px;}
 
 	a{
-		color:	white;}
+		color: salmon;}
 
 	img{
 		display: block;
